@@ -36,7 +36,7 @@ You can tweak the existing skins, or create your own. Each skin has two main ele
 
 1. Set the **EnableEmbeddedSkins** property of the **RadMenu** to **False**.
 
-The stylesheet for a **RadMenu** skin has the name **Menu.[SkinName].css** and can be found in the **...Skins/[SkinName]** directory. The images are found in the **...Skins/[SkinName]/Menu** directory. For example, the stylesheet for the "Black" skin is called Menu.Black.css and is located in the ...Skins/Menu directory. The images are found in the ...Skins/Black/Menu directory. The images are referenced by name from within the stylesheet.
+The stylesheet for a **RadMenu** skin has the name **Menu.[SkinName].css** and can be found in the **...Skins/[SkinName]** directory. The images are found in the **...Skins/[SkinName]/Menu** directory. For example, the stylesheet for the "Black" skin is called Menu.Black.css and is located in the ...Skins/Black directory. The images are found in the ...Skins/Black/Menu directory. The images are referenced by name from within the stylesheet.
 
 For more information on the CSS File structure, see the [Understanding the Skin CSS File]({%slug menu/appearance-and-styling/understanding-the-skin-css-file%}) topic.
 
